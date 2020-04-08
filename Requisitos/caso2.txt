@@ -1,0 +1,11 @@
+# CASO 2
+ Quando o usuário acessar a tela inicial do Facebook deverá ser
+apresentado os campos para novo cadastro e após preenchê-los e
+clicar no botão “Criar Conta” uma nova conta no Facebook com os
+dados informados deverá ser criada.O usuário deve possuir uma
+conta de e-mail ou número de celular. Isso é um cadastro de nova
+conta no Facebook uma vez que estou na tela inicial do Facebook.
+Quando eu preencher os campos de cadastro e clicar no botão
+“Criar conta”, a mensagem “Conta cadastrada com sucesso”
+deverá ser apresentada e eu serei redirecionado para a página
+inicial da minha conta no Facebook.

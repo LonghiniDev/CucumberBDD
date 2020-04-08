@@ -1,0 +1,9 @@
+# CASO 3
+ Como usuário administrador, um usuário gostaria de
+mudar a senha das contas de outros usuários para
+atualizar senha. Assim, o usuário administrador pode
+atualizar a senha do usuário uma vez que ele está no
+sistema de RH com uma conta de administrador. Quando
+eu atualizar a senha de outro usuário, devo receber uma
+mensagem de senha atualizada com sucesso e a senha
+antiga do usuário é atualizada para a nova senha.

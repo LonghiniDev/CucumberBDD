@@ -1,0 +1,7 @@
+# CASO 4
+ Para adicionar um produto no carrinho eu devo estar
+logado. Quando eu adiciono um produto no carrinho,
+tenho que ver o produto adicionado.
+Além disso, é necessário verificar o frete do produto. Caso
+eu esteja logado, ao adicionar um produto do carrinho e
+calcular o frete, tenho que visualizar o valor do frete.

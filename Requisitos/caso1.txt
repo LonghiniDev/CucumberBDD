@@ -1,0 +1,11 @@
+# CASO 1
+ Um caixa eletrônico deve permitir a retirada de dinheiro, quando o cliente
+não possuir saldo suficiente em conta e possuir limite de crédito aprovado.
+O cliente deve ser correntista, estar com R$ 500,00 de saldo em sua conta e
+possuir limite de crédito aprovado maior que R$ 600,00.
+Para o saque em dinheiro em conta corrente com saldo menor que o solicitado
+e com limite de crédito aprovado. Dado que sou uma correntista e tenho R$
+500,00 de saldo na minha conta quando eu solicitar um saque de R$ 600,00
+e possuir valor de cheque especial disponível em minha conta, devo receber o
+valor de R$ 600,00 e minha conta deve ficar com saldo em R$ 100,00
+negativos.

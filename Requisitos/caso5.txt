@@ -1,0 +1,9 @@
+# CASO 5
+ Ao adicionar dois produtos no carrinho. Para tanto o
+usuário precisa estar logado. Quando adiciona 2 produtos
+no carrinho, então ele tem que ver 2 produtos
+adicionados.
+Para deletar um item do carrinho, preciso estar logado.
+Quando eu adiciono um produto no carrinho e deleto esse
+item, tenho que ver o produto que foi removido do
+carrinho.
